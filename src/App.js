@@ -1,9 +1,9 @@
 import { Route, Routes } from "react-router-dom";
-import {Navigation} from "./components/nav/Navigation";
-import {BackupsPage} from "./pages/BackupsPage";
-import {MainPage} from "./pages/MainPage";
-import {ManagmentPage} from "./pages/ManagementPage";
-import {OptionsPage} from "./pages/OptionsPage";
+import { Navigation } from "./components/nav/Navigation";
+import { BackupsPage } from "./pages/BackupsPage";
+import { MainPage } from "./pages/MainPage";
+import { ManagmentPage } from "./pages/ManagementPage";
+import { OptionsPage } from "./pages/OptionsPage";
 
 function App() {
   return (
